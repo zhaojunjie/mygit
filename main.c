@@ -1,5 +1,5 @@
 #include <stfio.h>
-main
+fsdfsdfsdfsdain
 {
     printf("hello world");
 }
